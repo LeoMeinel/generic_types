@@ -13,7 +13,7 @@
  * GNU General Public License for more details.
  *
  * You should have received a copy of the GNU General Public License
- * along with this program. If not, see https://github.com/TamrielNetwork/generic_types/blob/main/LICENSE
+ * along with this program. If not, see https://github.com/LeoMeinel/generic_types/blob/main/LICENSE
  */
 
 use crate::enums_generics::enum_option_result::{OptionO, OptionOF64, OptionOI32, ResultO};
